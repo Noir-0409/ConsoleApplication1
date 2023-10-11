@@ -6,6 +6,8 @@
 int main()
 {
     std::cout << "Hello Github!\n";
+
+    std::cout << "LC1B_20_タムラアツキ\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
